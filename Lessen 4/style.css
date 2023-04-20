@@ -1,0 +1,26 @@
+h3{
+    color: rgb(255, 0, 0);
+    font-size: 45;
+    font-weight: 900;
+    font-family: cursive;
+    letter-spacing: 9px;
+    background-color: black;
+}
+h1{
+    border: 2px solid rgb(0, 255, 0);
+    border-top: 5px solid rgb(9, 156, 253);
+    border-right: 5px solid red;
+    border-bottom: 5px solid chocolate;
+    border-left: 5px solid green;
+    width: 200px;
+    padding: 100px;
+    margin: 0 auto;
+    border: none;
+    box-shadow: 5px 3px rgb(252, 4, 4)
+}
+h1:hover{
+    background-color: blueviolet;
+    color: aliceblue;
+}
+
+    
